@@ -1,5 +1,14 @@
 [
   {
+    "id": 233,
+    "name": "House",
+    "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/17.png",
+    "price": 0,
+    "priceCurrency": "km",
+    "lat": 16.6074,
+    "lng": 120.3666
+  },
+  {
     "id": 148,
     "name": "Aliwagwag Falls",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/1.jpg",
@@ -143,14 +152,5 @@
     "priceCurrency": "km",
     "lat": 17.5712,
     "lng": 120.3887
-  },
-    {
-    "id": 233,
-    "name": "House",
-    "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/17.png",
-    "price": 0,
-    "priceCurrency": "km",
-    "lat": 16.6074,
-    "lng": 120.3666
   }
 ]
