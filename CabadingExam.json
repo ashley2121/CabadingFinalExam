@@ -3,7 +3,7 @@
     "id": 148,
     "name": "Aliwagwag Falls",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/1.jpg",
-    "price": 1,739.9,
+    "price": 1739.9,
     "priceCurrency": "km",
     "lat": 7.74306,
     "lng": 126.29889
@@ -21,7 +21,7 @@
     "id": 229,
     "name": "Crocodile Park",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/3.jpg",
-    "price": 1,770.3,
+    "price": 1770.3,
     "priceCurrency": "km",
     "lat": 7.0976,
     "lng": 125.5989
@@ -30,7 +30,7 @@
     "id": 210,
     "name": "D'Bone Collector Museum",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/4.jpg",
-    "price": 1,772.4,
+    "price": 1772.4,
     "priceCurrency": "km",
     "lat": 7.0611,
     "lng": 125.6125
@@ -39,7 +39,7 @@
     "id": 211,
     "name": "Enchancted River",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/5.jpg",
-    "price": 1,585.9,
+    "price": 1585.9,
     "priceCurrency": "km",
     "lat": 8.4588,
     "lng": 126.3548
@@ -48,7 +48,7 @@
     "id": 215,
     "name": "Gloria's Fantasyland",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/6.jpg",
-    "price": 1,291.3,
+    "price": 1291.3,
     "priceCurrency": "km",
     "lat": 8.6470,
     "lng": 123.4177
@@ -66,7 +66,7 @@
     "id": 220,
     "name": "Kalanggaman Island",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/8.jpg",
-    "price": 1,079.5,
+    "price": 1079.5,
     "priceCurrency": "km",
     "lat": 11.1144,
     "lng": 124.2495
@@ -111,7 +111,7 @@
     "id": 247,
     "name": "Sambawan Island",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/13.jpg",
-    "price": 1,239.1,
+    "price": 1239.1,
     "priceCurrency": "km",
      "lat": 11.7663,
     "lng": 124.2639
@@ -121,7 +121,7 @@
     "id": 287,
     "name": "Sohotan Caves",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/13.jpg",
-    "price": 1,159.7,
+    "price": 1159.7,
     "priceCurrency": "km",
     "lat": 11.4017,
     "lng": 125.1330
