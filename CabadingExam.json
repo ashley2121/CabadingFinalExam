@@ -135,15 +135,6 @@
     "lng": 120.9852
   },
   {
-    "id": 297,
-    "name": "Start City",
-    "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/15.jpg",
-    "price": 282.7,
-    "priceCurrency": "km",
-    "lat": 14.5566,
-    "lng": 120.9852
-  },
-  {
     "id": 307,
     "name": "Vigan Heritage Village",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/16.jpg",
