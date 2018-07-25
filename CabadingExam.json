@@ -3,7 +3,7 @@
     "id": 148,
     "name": "Aliwagwag Falls",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/1.jpg",
-    "price": 707.7,
+    "price": 1,739.9,
     "priceCurrency": "km",
     "lat": 7.74306,
     "lng": 126.29889
@@ -12,7 +12,7 @@
     "id": 201,
     "name": "Burnham Park",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/2.jpg",
-    "price": 1191.0,
+    "price": 67.8,
     "priceCurrency": "km",
     "lat": 7.0404,
     "lng": 26.6652
@@ -21,7 +21,7 @@
     "id": 229,
     "name": "Crocodile Park",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/3.jpg",
-    "price": 141.2,
+    "price": 1,770.3,
     "priceCurrency": "km",
     "lat": 7.0976,
     "lng": 125.5989
@@ -30,7 +30,7 @@
     "id": 210,
     "name": "D'Bone Collector Museum",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/4.jpg",
-    "price": 404.9,
+    "price": 1,772.4,
     "priceCurrency": "km",
     "lat": 7.0611,
     "lng": 125.6125
@@ -39,7 +39,7 @@
     "id": 211,
     "name": "Enchancted River",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/5.jpg",
-    "price": 712,
+    "price": 1,585.9,
     "priceCurrency": "km",
     "lat": 8.4588,
     "lng": 126.3548
@@ -48,7 +48,7 @@
     "id": 215,
     "name": "Gloria's Fantasyland",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/6.jpg",
-    "price": 757.3,
+    "price": 1,291.3,
     "priceCurrency": "km",
     "lat": 8.6470,
     "lng": 123.4177
@@ -57,7 +57,7 @@
     "id": 145,
     "name": "Inflatable Island",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/7.jpg",
-    "price": 214.2,
+    "price": 257.9,
     "priceCurrency": "km",
     "lat": 14.8372,
     "lng": 120.2677
@@ -66,7 +66,7 @@
     "id": 220,
     "name": "Kalanggaman Island",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/8.jpg",
-    "price": 279.7,
+    "price": 1,079.5,
     "priceCurrency": "km",
     "lat": 11.1144,
     "lng": 124.2495
@@ -75,7 +75,7 @@
     "id": 224,
     "name": "Manila Ocean Park",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/9%5D.jpg",
-    "price": 56.0,
+    "price": 279.0,
     "priceCurrency": "km",
     "lat": 14.5792,
     "lng": 120.9725
@@ -84,7 +84,7 @@
     "id": 228,
     "name": "Mines View",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/10.jpg",
-    "price": 141.2,
+    "price": 73.6,
     "priceCurrency": "km",
     "lat": 16.4196,
     "lng": 120.6279
@@ -93,7 +93,7 @@
     "id": 205,
     "name": "Ocean Adventure, Subic Bay",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/11.jpg",
-    "price": 1069.3,
+    "price": 272.4,
     "priceCurrency": "km",
     "lat": 14.7644,
     "lng": 120.2532
@@ -102,7 +102,7 @@
     "id": 237,
     "name": "Rizal Park",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/12.jpg",
-    "price": 141.2,
+    "price": 278.2,
     "priceCurrency": "km",
     "lat": 14.5831,
     "lng": 120.9794
@@ -111,7 +111,7 @@
     "id": 247,
     "name": "Sambawan Island",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/13.jpg",
-    "price": 567.2,
+    "price": 1,239.1,
     "priceCurrency": "km",
      "lat": 11.7663,
     "lng": 124.2639
@@ -119,9 +119,9 @@
   },
   {
     "id": 287,
-    "name": "Sohotan Caves and Natural Bridge National Park",
+    "name": "Sohotan Caves",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/13.jpg",
-    "price": 453.2,
+    "price": 1,159.7,
     "priceCurrency": "km",
     "lat": 11.4017,
     "lng": 125.1330
@@ -130,7 +130,7 @@
     "id": 297,
     "name": "Start City",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/15.jpg",
-    "price": 234.2,
+    "price": 282.7,
     "priceCurrency": "km",
     "lat": 14.5566,
     "lng": 120.9852
@@ -139,7 +139,7 @@
     "id": 307,
     "name": "Vigan Heritage Village",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/16.jpg",
-    "price": 141.2,
+    "price": 145.6,
     "priceCurrency": "km",
     "lat": 17.5712,
     "lng": 120.3887
@@ -148,7 +148,7 @@
     "id": 233,
     "name": "House",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/17.png",
-    "price": 3500000,
+    "price": 0,
     "priceCurrency": "km",
     "lat": 16.6074,
     "lng": 120.3666
