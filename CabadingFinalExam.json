@@ -1,0 +1,119 @@
+[
+  {
+    "id": 145,
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "",
+    "price": 214.2,
+    "priceCurrency": "km",
+    "lat": 16.923954,
+    "lng": 121.055640
+  },
+  {
+    "id": 148,
+    "name": "Boracay",
+    "imageUrl": "",
+    "price": 707.7,
+    "priceCurrency": "km",
+    "lat": 11.967375,
+    "lng": 121.924815
+  },
+  {
+    "id": 201,
+    "name": "Chocolate Hills",
+    "imageUrl": "",
+    "price": 1191.0,
+    "priceCurrency": "km",
+    "lat": 9.829708,
+    "lng": 124.139676
+  },
+  {
+    "id": 205,
+    "name": "Puerto Princesa Underground River",
+    "imageUrl": "",
+    "price": 1069.3,
+    "priceCurrency": "km",
+    "lat": 10.192559,
+    "lng": 118.926583
+  },
+  {
+    "id": 210,
+    "name": "Puerto Galera",
+    "imageUrl": "",
+    "price": 404.9,
+    "priceCurrency": "km",
+    "lat": 13.501891,
+    "lng": 120.954120
+  },
+  {
+    "id": 211,
+    "name": "Malapascua Island",
+    "imageUrl": "",
+    "price": 712,
+    "priceCurrency": "km",
+    "lat": 11.335846,
+    "lng": 124.115636
+  },
+    {
+    "id": 215,
+    "name": "Mayon Volcano",
+    "imageUrl": "",
+    "price": 757.3,
+    "priceCurrency": "km",
+    "lat": 13.254832,
+    "lng": 123.686112
+  },
+  {
+    "id": 220,
+    "name": "Bangui Windmills",
+    "imageUrl": "",
+    "price": 279.7,
+    "priceCurrency": "km",
+    "lat": 18.528571,
+    "lng": 120.718110
+  },
+  {
+    "id": 224,
+    "name": "Baguio's Botanical Garden",
+    "imageUrl": "",
+    "price": 56.0,
+    "priceCurrency": "km",
+    "lat": 16.414418,
+    "lng": 120.613203
+  },
+    {
+    "id": 227,
+    "name": "Vigan Heritage Village",
+    "imageUrl": "",
+    "price": 141.2,
+    "priceCurrency": "km",
+    "lat": 17.570127,
+    "lng": 120.388285
+  },
+      {
+    "id": 228,
+    "name": "Hundred Island",
+    "imageUrl": "",
+    "price": 141.2,
+    "priceCurrency": "km",
+    "lat": 16.204001,
+    "lng": 120.040869
+  },
+      {
+    "id": 229,
+    "name": "Caramoan Peninsula",
+    "imageUrl": "",
+    "price": 141.2,
+    "priceCurrency": "km",
+    "lat": 13.795278,
+    "lng": 123.703611
+  },
+    {
+    "id": 233,
+    "name": "House",
+    "imageUrl": "",
+    "price": 0,
+    "priceCurrency": "km",
+    "lat": 16.6167,
+    "lng": 120.3167
+  }
+]
