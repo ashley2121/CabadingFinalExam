@@ -2,7 +2,7 @@
   {
     "id": 148,
     "name": "Aliwagwag Falls",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/1.jpg",
     "price": 707.7,
     "priceCurrency": "km",
     "lat": 11.967375,
@@ -11,7 +11,7 @@
   {
     "id": 201,
     "name": "Burnham Park",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/2.jpg",
     "price": 1191.0,
     "priceCurrency": "km",
     "lat": 9.829708,
@@ -20,7 +20,7 @@
         {
     "id": 229,
     "name": "Crocodile Park",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/3.jpg",
     "price": 141.2,
     "priceCurrency": "km",
     "lat": 13.795278,
@@ -29,7 +29,7 @@
   {
     "id": 210,
     "name": "D'Bone Collector Museum",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/4.jpg",
     "price": 404.9,
     "priceCurrency": "km",
     "lat": 13.501891,
@@ -38,7 +38,7 @@
   {
     "id": 211,
     "name": "Enchancted River",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/5.jpg",
     "price": 712,
     "priceCurrency": "km",
     "lat": 11.335846,
