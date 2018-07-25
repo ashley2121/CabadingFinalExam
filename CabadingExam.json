@@ -32,8 +32,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/4.jpg",
     "price": 404.9,
     "priceCurrency": "km",
-    "lat": 13.501891,
-    "lng": 120.954120
+    "lat": 7.0611,
+    "lng": 125.6125
   },
   {
     "id": 211,
@@ -41,8 +41,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/5.jpg",
     "price": 712,
     "priceCurrency": "km",
-    "lat": 11.335846,
-    "lng": 124.115636
+    "lat": 8.4588,
+    "lng": 126.3548
   },
     {
     "id": 215,
@@ -50,8 +50,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/6.jpg",
     "price": 757.3,
     "priceCurrency": "km",
-    "lat": 13.254832,
-    "lng": 123.686112
+    "lat": 8.6470,
+    "lng": 123.4177
   },
    {
     "id": 145,
@@ -59,8 +59,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/7.jpg",
     "price": 214.2,
     "priceCurrency": "km",
-    "lat": 16.923954,
-    "lng": 121.055640
+    "lat": 14.8372,
+    "lng": 120.2677
   },
   {
     "id": 220,
@@ -68,8 +68,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/8.jpg",
     "price": 279.7,
     "priceCurrency": "km",
-    "lat": 18.528571,
-    "lng": 120.718110
+    "lat": 11.1144,
+    "lng": 124.2495
   },
   {
     "id": 224,
@@ -77,8 +77,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/9%5D.jpg",
     "price": 56.0,
     "priceCurrency": "km",
-    "lat": 16.414418,
-    "lng": 120.613203
+    "lat": 14.5792,
+    "lng": 120.9725
   },
       {
     "id": 228,
@@ -86,8 +86,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/10.jpg",
     "price": 141.2,
     "priceCurrency": "km",
-    "lat": 16.204001,
-    "lng": 120.040869
+    "lat": 16.4196,
+    "lng": 120.6279
   },
   {
     "id": 205,
@@ -95,8 +95,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/11.jpg",
     "price": 1069.3,
     "priceCurrency": "km",
-    "lat": 10.192559,
-    "lng": 118.926583
+    "lat": 14.7644,
+    "lng": 120.2532
   },
   {
     "id": 237,
@@ -104,8 +104,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/12.jpg",
     "price": 141.2,
     "priceCurrency": "km",
-    "lat": 9.829708,
-    "lng": 124.139676
+    "lat": 14.5831,
+    "lng": 120.9794
   },
   {
     "id": 247,
@@ -113,8 +113,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/13.jpg",
     "price": 567.2,
     "priceCurrency": "km",
-     "lat": 9.829708,
-    "lng": 124.139676
+     "lat": 11.7663,
+    "lng": 124.2639
 
   },
   {
@@ -141,8 +141,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/16.jpg",
     "price": 141.2,
     "priceCurrency": "km",
-    "lat": 9.829708,
-    "lng": 124.139676
+    "lat": 17.5712,
+    "lng": 120.3887
   },
     {
     "id": 233,
@@ -150,7 +150,7 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/17.png",
     "price": 3500000,
     "priceCurrency": "km",
-    "lat": 16.594004,
-    "lng": 120.334902
+    "lat": 16.6074,
+    "lng": 120.3666
   }
 ]
