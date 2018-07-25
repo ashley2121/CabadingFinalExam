@@ -113,7 +113,7 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/13.jpg",
     "price": 567.2,
     "priceCurrency": "km",
-  "lat": 9.829708,
+     "lat": 9.829708,
     "lng": 124.139676
 
   },
@@ -123,8 +123,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/13.jpg",
     "price": 453.2,
     "priceCurrency": "km",
-    "lat": 9.829708,
-    "lng": 124.139676
+    "lat": 18.528571,
+    "lng": 120.718110
   },
   {
     "id": 297,
