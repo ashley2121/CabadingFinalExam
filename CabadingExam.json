@@ -5,8 +5,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/1.jpg",
     "price": 707.7,
     "priceCurrency": "km",
-    "lat": 11.967375,
-    "lng": 121.924815
+    "lat": 7.74306,
+    "lng": 126.29889
   },
   {
     "id": 201,
@@ -14,8 +14,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/2.jpg",
     "price": 1191.0,
     "priceCurrency": "km",
-    "lat": 9.829708,
-    "lng": 124.139676
+    "lat": 7.0404,
+    "lng": 26.6652
   },
         {
     "id": 229,
@@ -23,8 +23,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/3.jpg",
     "price": 141.2,
     "priceCurrency": "km",
-    "lat": 13.795278,
-    "lng": 123.703611
+    "lat": 7.0976,
+    "lng": 125.5989
   },
   {
     "id": 210,
@@ -132,8 +132,8 @@
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/15.jpg",
     "price": 234.2,
     "priceCurrency": "km",
-    "lat": 9.829708,
-    "lng": 124.139676
+    "lat": 14.5566,
+    "lng": 120.9852
   },
   {
     "id": 307,
