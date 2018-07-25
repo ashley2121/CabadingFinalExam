@@ -125,6 +125,15 @@
      "lat": 11.7663,
     "lng": 124.2639
   },
+   {
+    "id": 267,
+    "name": "Sohotan Cove",
+    "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/wos.jpg",
+    "price": 1441.3,
+    "priceCurrency": "km",
+    "lat": 9.757131	,
+    "lng": 125.513763
+  },
   {
     "id": 297,
     "name": "Start City",
