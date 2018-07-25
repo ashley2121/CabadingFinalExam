@@ -127,15 +127,6 @@
 
   },
   {
-    "id": 287,
-    "name": "Sohotan Caves",
-    "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/wos.jpg",
-    "price": 1159.7,
-    "priceCurrency": "km",
-    "lat": 11.4017,
-    "lng": 125.1330
-  },
-  {
     "id": 297,
     "name": "Start City",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/15.jpg",
