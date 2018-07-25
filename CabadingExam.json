@@ -99,7 +99,7 @@
     "lng": 118.926583
   },
   {
-    "id": 227,
+    "id": 237,
     "name": "Rizal Park",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/12.jpg",
     "price": 141.2,
@@ -108,34 +108,35 @@
     "lng": 120.388285
   },
   {
-    "id": 227,
+    "id": 247,
     "name": "Sambawan Island",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/13.jpg",
-    "price": 141.2,
+    "price": 567.2,
     "priceCurrency": "km",
-    "lat": 17.570127,
-    "lng": 120.388285
+    "lat": 11.7663° N,
+    "lng": 124.2639° E
+
   },
   {
-    "id": 227,
+    "id": 287,
     "name": "Sohotan Caves and Natural Bridge National Park",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/13.jpg",
-    "price": 141.2,
+    "price": 453.2,
     "priceCurrency": "km",
-    "lat": 17.570127,
-    "lng": 120.388285
+    "lat": 11' 56.4036'' N,
+    "lng": 27' 17.7876'' E
   },
   {
-    "id": 227,
+    "id": 297,
     "name": "Start City",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/15.jpg",
-    "price": 141.2,
+    "price": 234.2,
     "priceCurrency": "km",
     "lat": 17.570127,
     "lng": 120.388285
   },
   {
-    "id": 227,
+    "id": 307,
     "name": "Vigan Heritage Village",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/16.jpg",
     "price": 141.2,
@@ -147,7 +148,7 @@
     "id": 233,
     "name": "House",
     "imageUrl": "https://raw.githubusercontent.com/ashley2121/CabadingFinalExam/master/17.png",
-    "price": 0,
+    "price": 3500000,
     "priceCurrency": "km",
     "lat": 16.594004,
     "lng": 120.334902
